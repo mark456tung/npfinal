@@ -1,9 +1,9 @@
 # Final tern HW1 HTML
 ## 成果: 透過按鈕進行深色模式跟淺色模式的切換
-![1](img/1.PNG)
-![2](img/2.PNG)
+![1](img/1.png)
+![2](img/2.png)
 ## 完成的截圖證明
-![3](img/3.PNG)
+![3](img/3.png)
 ## code
 * [index.html](code/index.html)
 ```html
